@@ -21,7 +21,7 @@ function Profile(props) {
                                     }),
                                 JsxRuntime.jsx("h1", {
                                       children: "Jeremy Robson",
-                                      className: "text-3xl font-thin text-white"
+                                      className: "text-4xl font-thin text-white"
                                     })
                               ],
                               className: "flex flex-col gap-3"
@@ -63,7 +63,7 @@ function Profile(props) {
                                 })
                             })
                       ],
-                      className: "flex lg:flex-col justify-center items-center lg:items-start p-5 lg:p-10 gap-10 text-[#aeb4f1]",
+                      className: "flex lg:flex-col justify-center items-center lg:items-start p-5 lg:p-10 gap-5 text-[#aeb4f1]",
                       id: "times"
                     })
               ],

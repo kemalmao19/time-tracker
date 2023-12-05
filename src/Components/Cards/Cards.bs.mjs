@@ -77,7 +77,7 @@ function Cards(props) {
                                                         className: "text-[#aeb4f1] flex lg:flex-col justify-between lg:justify-start items-center lg:items-start gap-5 rounded-2xl cursor-pointer"
                                                       })
                                                 ],
-                                                className: "relative flex flex-col bg-[#1D204B] hover:bg-[#34397B] transform-y transition-transform duration-300 hover:scale-y-105 rounded-t-2xl p-6 gap-5"
+                                                className: "relative flex flex-col bg-[#1D204B] hover:bg-[#34397B] transform-y transition-transform duration-300 hover:scale-y-105 rounded-2xl p-6 gap-5"
                                               })
                                         ],
                                         className: "flex flex-col " + Data.activityColor(activity.title) + " justify-between rounded-2xl"

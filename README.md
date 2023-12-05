@@ -1,4 +1,6 @@
-# ReScript / Vite Starter Template
+# Time tracker using Rescript and Tailwind
+
+![time-tracker](./img/time-tracker.png)
 
 This is a Vite-based template with following setup:
 
